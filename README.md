@@ -10,6 +10,11 @@ You’ll get free Google Cloud access during the event—no credit card needed.
 
 - Follow the prompts to activate your account and access the Google Cloud Console.
 
+## Generating Gemini API Keys
+
+After completing the steps to access the Google Cloud Console, you can generate your Gemini API Keys for free. You can find the keys be going to Google AI Studio (https://aistudio.google.com/api-keys) with the same google account used in the steps above.
+<img width="1905" height="493" alt="image" src="https://github.com/user-attachments/assets/4ec3a2d3-54cd-4858-979c-2b89fd2e0c17" />
+
 ## What is GCP?
 Google Cloud Platform offers all the tools of the google cloud development environment to build your applications. It also offers free Gemini API Keys so you can leverage the full potential of generative AI during today's hacking!
 
@@ -22,6 +27,7 @@ These are some of the services the GCP offers ranging from backend & storage to 
 * **Vertex AI Workbench** : Managed notebooks; GPUs/TPUs if available.
 
 GCP offers a broad range of other services to allow for cloud deployment of applications. Feel free to check out the possibilities of GCP for your hacking today or future projects!
+
 
 # ING Voice Assistant Hackathon 2025
 
